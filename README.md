@@ -9,7 +9,7 @@
 
 Labs are mandatory and must be completed before the start of the next class. 
 
-**Exceptionally, students will have the week-end to complete this lab**.
+**Exceptionally, students will have the weekend to complete this lab**.
 
 You may work collaboratively with your classmates, but you may not copy and paste another student's code.
 
